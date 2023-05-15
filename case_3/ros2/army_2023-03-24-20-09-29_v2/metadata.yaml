@@ -1,0 +1,433 @@
+rosbag2_bagfile_information:
+  compression_format: ''
+  compression_mode: ''
+  custom_data: {}
+  duration:
+    nanoseconds: 62648964329
+  files:
+  - duration:
+      nanoseconds: 62648964329
+    message_count: 65044
+    path: army_2023-03-24-20-09-29_v2.db3
+    starting_time:
+      nanoseconds_since_epoch: 1679681369864484819
+  message_count: 65044
+  relative_file_paths:
+  - army_2023-03-24-20-09-29_v2.db3
+  starting_time:
+    nanoseconds_since_epoch: 1679681369864484819
+  storage_identifier: sqlite3
+  topics_with_message_count:
+  - message_count: 6211
+    topic_metadata:
+      name: /clock
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: rosgraph_msgs/msg/Clock
+  - message_count: 66
+    topic_metadata:
+      name: /rosout
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: rosgraph_msgs/msg/Log
+  - message_count: 1
+    topic_metadata:
+      name: /rosout
+      offered_qos_profiles: "- history: 3\n  depth: 0\n  reliability: 1\n  durability:
+        1\n  deadline:\n    sec: 2147483647\n    nsec: 4294967295\n  lifespan:\n    sec:
+        2147483647\n    nsec: 4294967295\n  liveliness: 1\n  liveliness_lease_duration:\n
+        \   sec: 2147483647\n    nsec: 4294967295\n  avoid_ros_namespace_conventions:
+        false"
+      serialization_format: cdr
+      type: rosgraph_msgs/msg/Log
+  - message_count: 907
+    topic_metadata:
+      name: /uwb/tof/n_6/n_7/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 907
+    topic_metadata:
+      name: /uwb/tof/n_1/n_8/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 1877
+    topic_metadata:
+      name: /vrpn_client_node/turtlebot1/pose
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: geometry_msgs/msg/PoseStamped
+  - message_count: 1877
+    topic_metadata:
+      name: /vrpn_client_node/turtlebot6/pose
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: geometry_msgs/msg/PoseStamped
+  - message_count: 1877
+    topic_metadata:
+      name: /vrpn_client_node/turtlebot2/pose
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: geometry_msgs/msg/PoseStamped
+  - message_count: 1877
+    topic_metadata:
+      name: /vrpn_client_node/turtlebot3/pose
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: geometry_msgs/msg/PoseStamped
+  - message_count: 15016
+    topic_metadata:
+      name: /tf
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: tf2_msgs/msg/TFMessage
+  - message_count: 1877
+    topic_metadata:
+      name: /vrpn_client_node/turtlebot7/pose
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: geometry_msgs/msg/PoseStamped
+  - message_count: 1877
+    topic_metadata:
+      name: /vrpn_client_node/turtlebot4/pose
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: geometry_msgs/msg/PoseStamped
+  - message_count: 453
+    topic_metadata:
+      name: /uwb/tof/n_5/n_3/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 1877
+    topic_metadata:
+      name: /vrpn_client_node/turtlebot5/pose
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: geometry_msgs/msg/PoseStamped
+  - message_count: 1877
+    topic_metadata:
+      name: /vrpn_client_node/turtlebot8/pose
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: geometry_msgs/msg/PoseStamped
+  - message_count: 453
+    topic_metadata:
+      name: /uwb/tof/n_2/n_8/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 452
+    topic_metadata:
+      name: /uwb/tof/n_4/n_7/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 453
+    topic_metadata:
+      name: /uwb/tof/n_7/n_3/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 453
+    topic_metadata:
+      name: /uwb/tof/n_3/n_1/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 453
+    topic_metadata:
+      name: /uwb/tof/n_1/n_6/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 453
+    topic_metadata:
+      name: /uwb/tof/n_4/n_6/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 453
+    topic_metadata:
+      name: /uwb/tof/n_6/n_1/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 453
+    topic_metadata:
+      name: /uwb/tof/n_1/n_3/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 906
+    topic_metadata:
+      name: /uwb/tof/n_3/n_4/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 906
+    topic_metadata:
+      name: /uwb/tof/n_4/n_3/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 453
+    topic_metadata:
+      name: /uwb/tof/n_4/n_8/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 453
+    topic_metadata:
+      name: /uwb/tof/n_8/n_4/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 452
+    topic_metadata:
+      name: /uwb/tof/n_1/n_5/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 453
+    topic_metadata:
+      name: /uwb/tof/n_2/n_4/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 454
+    topic_metadata:
+      name: /uwb/tof/n_1/n_2/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 453
+    topic_metadata:
+      name: /uwb/tof/n_3/n_2/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 453
+    topic_metadata:
+      name: /uwb/tof/n_6/n_5/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 454
+    topic_metadata:
+      name: /uwb/tof/n_4/n_5/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 453
+    topic_metadata:
+      name: /uwb/tof/n_5/n_6/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 454
+    topic_metadata:
+      name: /uwb/tof/n_5/n_4/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 453
+    topic_metadata:
+      name: /uwb/tof/n_8/n_7/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 453
+    topic_metadata:
+      name: /uwb/tof/n_7/n_8/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 454
+    topic_metadata:
+      name: /uwb/tof/n_7/n_1/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 454
+    topic_metadata:
+      name: /uwb/tof/n_1/n_7/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 451
+    topic_metadata:
+      name: /uwb/tof/n_6/n_2/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 446
+    topic_metadata:
+      name: /uwb/tof/n_8/n_5/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 891
+    topic_metadata:
+      name: /uwb/tof/n_2/n_5/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 891
+    topic_metadata:
+      name: /uwb/tof/n_5/n_2/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 446
+    topic_metadata:
+      name: /uwb/tof/n_5/n_8/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 447
+    topic_metadata:
+      name: /uwb/tof/n_2/n_1/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 892
+    topic_metadata:
+      name: /uwb/tof/n_8/n_1/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 446
+    topic_metadata:
+      name: /uwb/tof/n_2/n_3/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 445
+    topic_metadata:
+      name: /uwb/tof/n_3/n_5/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 451
+    topic_metadata:
+      name: /uwb/tof/n_8/n_3/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 451
+    topic_metadata:
+      name: /uwb/tof/n_3/n_8/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 445
+    topic_metadata:
+      name: /uwb/tof/n_8/n_2/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 444
+    topic_metadata:
+      name: /uwb/tof/n_7/n_4/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 445
+    topic_metadata:
+      name: /uwb/tof/n_3/n_7/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 445
+    topic_metadata:
+      name: /uwb/tof/n_6/n_4/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 889
+    topic_metadata:
+      name: /uwb/tof/n_7/n_6/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 444
+    topic_metadata:
+      name: /uwb/tof/n_8/n_6/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 444
+    topic_metadata:
+      name: /uwb/tof/n_6/n_8/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 443
+    topic_metadata:
+      name: /uwb/tof/n_5/n_7/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 443
+    topic_metadata:
+      name: /uwb/tof/n_7/n_5/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 443
+    topic_metadata:
+      name: /uwb/tof/n_5/n_1/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 443
+    topic_metadata:
+      name: /uwb/tof/n_7/n_2/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 444
+    topic_metadata:
+      name: /uwb/tof/n_2/n_7/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 442
+    topic_metadata:
+      name: /uwb/tof/n_2/n_6/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 443
+    topic_metadata:
+      name: /uwb/tof/n_6/n_3/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 443
+    topic_metadata:
+      name: /uwb/tof/n_3/n_6/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 443
+    topic_metadata:
+      name: /uwb/tof/n_4/n_1/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 443
+    topic_metadata:
+      name: /uwb/tof/n_1/n_4/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 443
+    topic_metadata:
+      name: /uwb/tof/n_4/n_2/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  version: 6

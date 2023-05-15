@@ -1,0 +1,187 @@
+rosbag2_bagfile_information:
+  compression_format: ''
+  compression_mode: ''
+  custom_data: {}
+  duration:
+    nanoseconds: 49387644739
+  files:
+  - duration:
+      nanoseconds: 49387644739
+    message_count: 46175
+    path: rotation_2023-03-24-19-11-56.db3
+    starting_time:
+      nanoseconds_since_epoch: 1679677916704216484
+  message_count: 46175
+  relative_file_paths:
+  - rotation_2023-03-24-19-11-56.db3
+  starting_time:
+    nanoseconds_since_epoch: 1679677916704216484
+  storage_identifier: sqlite3
+  topics_with_message_count:
+  - message_count: 4897
+    topic_metadata:
+      name: /clock
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: rosgraph_msgs/msg/Clock
+  - message_count: 24
+    topic_metadata:
+      name: /rosout
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: rosgraph_msgs/msg/Log
+  - message_count: 8
+    topic_metadata:
+      name: /rosout
+      offered_qos_profiles: "- history: 3\n  depth: 0\n  reliability: 1\n  durability:
+        1\n  deadline:\n    sec: 2147483647\n    nsec: 4294967295\n  lifespan:\n    sec:
+        2147483647\n    nsec: 4294967295\n  liveliness: 1\n  liveliness_lease_duration:\n
+        \   sec: 2147483647\n    nsec: 4294967295\n  avoid_ros_namespace_conventions:
+        false"
+      serialization_format: cdr
+      type: rosgraph_msgs/msg/Log
+  - message_count: 15
+    topic_metadata:
+      name: /rosout_agg
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: rosgraph_msgs/msg/Log
+  - message_count: 2956
+    topic_metadata:
+      name: /tf
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: tf2_msgs/msg/TFMessage
+  - message_count: 1478
+    topic_metadata:
+      name: /vrpn_client_node/uwb_02/pose
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: geometry_msgs/msg/PoseStamped
+  - message_count: 1478
+    topic_metadata:
+      name: /vrpn_client_node/uwb_01/pose
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: geometry_msgs/msg/PoseStamped
+  - message_count: 1478
+    topic_metadata:
+      name: /platform_01
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: geometry_msgs/msg/PoseStamped
+  - message_count: 1477
+    topic_metadata:
+      name: /platform_04
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: geometry_msgs/msg/PoseStamped
+  - message_count: 1477
+    topic_metadata:
+      name: /platform_03
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: geometry_msgs/msg/PoseStamped
+  - message_count: 1477
+    topic_metadata:
+      name: /platform_02
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: geometry_msgs/msg/PoseStamped
+  - message_count: 1857
+    topic_metadata:
+      name: /uwb/tof/n_6/n_3/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 1857
+    topic_metadata:
+      name: /uwb/tof/n_5/n_1/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 1857
+    topic_metadata:
+      name: /uwb/tof/n_1/n_5/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 1856
+    topic_metadata:
+      name: /uwb/tof/n_2/n_5/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 1856
+    topic_metadata:
+      name: /uwb/tof/n_5/n_2/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 1855
+    topic_metadata:
+      name: /uwb/tof/n_3/n_5/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 1855
+    topic_metadata:
+      name: /uwb/tof/n_5/n_3/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 1857
+    topic_metadata:
+      name: /uwb/tof/n_5/n_4/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 1822
+    topic_metadata:
+      name: /uwb/tof/n_2/n_6/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 1822
+    topic_metadata:
+      name: /uwb/tof/n_6/n_2/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 1822
+    topic_metadata:
+      name: /uwb/tof/n_3/n_6/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 1821
+    topic_metadata:
+      name: /uwb/tof/n_6/n_4/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 1821
+    topic_metadata:
+      name: /uwb/tof/n_4/n_6/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 1819
+    topic_metadata:
+      name: /uwb/tof/n_6/n_1/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 1819
+    topic_metadata:
+      name: /uwb/tof/n_1/n_6/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  - message_count: 1814
+    topic_metadata:
+      name: /uwb/tof/n_4/n_5/distance
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Range
+  version: 6
