@@ -1,16 +1,20 @@
 # UWB Relative Localization Dataset
 
 ## Case 1
+Absolute error            |  Relative error
+:-------------------------:|:-------------------------:
 ![](./images/5a-1.png) | ![](./images/5b-1.png)
 
 ## Case 2
-
+-            |  -
+:-------------------------:|:-------------------------:
 ![](./images/3a-1.png) | ![](./images/3b-1.png)
 ![](./images/3c-1.png) | ![](./images/3d-1.png)
 ![](./images/3e-1.png) | ![](./images/3f-1.png)
 
 ## Case 3
-
+Scenario 1             | Scenario 2                    | Scenario 3  
+:-------------------------:|:-------------------------:|:-------------------------:
 ![](./images/4a-1.png) | ![](./images/4b-1.png) | ![](./images/4c-1.png) 
 
 ## Case 4
