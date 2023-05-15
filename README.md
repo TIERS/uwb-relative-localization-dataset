@@ -4,12 +4,12 @@
 
 ## Case 2
 
-![1](./images/3a-01.png)
-![2](./images/3b-01.png)
-![3](./images/3c-01.png)
-![4](./images/3d-01.png)
-![5](./images/3e-01.png)
-![6](./images/3f-01.png)
+![](./images/3a-1.png)
+![](./images/3b-1.png)
+![](./images/3c-1.png)
+![](./images/3d-1.png)
+![](./images/3e-1.png)
+![](./images/3f-1.png)
 
 ## Case 3
 
