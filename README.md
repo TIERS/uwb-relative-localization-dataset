@@ -6,7 +6,7 @@ Absolute error            |  Relative error
 ![](./images/5a-1.png) | ![](./images/5b-1.png)
 
 ## Case 2
--            |  -
+placeholder            |  placeholder
 :-------------------------:|:-------------------------:
 ![](./images/3a-1.png) | ![](./images/3b-1.png)
 ![](./images/3c-1.png) | ![](./images/3d-1.png)
